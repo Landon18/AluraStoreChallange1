@@ -1,4 +1,4 @@
-# AluraStoreChallenge1
+<h1 align="center"> # AluraStoreChallenge1 </h1>
 
 Este projeto é um desafio proposto pela Alura para analisar e visualizar dados relacionados a uma loja fictícia. O foco é aplicar técnicas de análise de dados utilizando Python e bibliotecas como Pandas e Matplotlib.
 
